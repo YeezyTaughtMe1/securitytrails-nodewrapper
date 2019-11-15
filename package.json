@@ -1,0 +1,16 @@
+{
+  "name": "sectrails",
+  "version": "1.0.0",
+  "main": "client.js",
+  "dependencies": {
+    "securitytrails-js": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node client.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varun Vijay",
+  "license": "ISC",
+  "description": ""
+}
