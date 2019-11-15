@@ -1,6 +1,6 @@
 const STAPI = require("securitytrails-js")
 
-const stapi = new STAPI('process.env.API_KEY')
+const stapi = new STAPI(process.env.API_KEY)
 
 const host = process.env.HOST;
 
